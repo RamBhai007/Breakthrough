@@ -103,7 +103,8 @@ SELECT MATCHUP
 
  (6) Alpha-beta (Offensive Heuristic 2) vs Alpha-beta (Defensive Heuristic 2)
  ![Screenshot 2023-04-23 165910](https://github.com/RamBhai007/Breakthrough/assets/101466286/554332a4-3cc6-4b60-8b2d-b149d34f3c97)
-
+ 
+ 
  (7) Random AI vs Random AI
  ![Screenshot 2023-04-23 165941](https://github.com/RamBhai007/Breakthrough/assets/101466286/3d63222c-1ce0-49b1-98dd-874092ccf90b)
 
